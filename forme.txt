@@ -1,0 +1,2 @@
+We created a protect route, and auth via token
+because just a logged user should be used to create, publish.
